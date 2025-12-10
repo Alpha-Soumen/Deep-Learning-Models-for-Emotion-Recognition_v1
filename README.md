@@ -173,9 +173,17 @@ You can download or view the full notebook in PDF format here:
 
 ---
 
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
 ## 👨‍💻 Developed by
 
-* **Soumen Bhunia**
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/soumen-bhunia/)
-  
+**Soumen Bhunia**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soumen-bhunia/)
+
+---
 
